@@ -1,5 +1,7 @@
 # Todo List — приложение для управления задачами
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/256ff2dcf99944e6992fae8bf91bb2fa)](https://app.codacy.com/gh/sorbondev/todo-list/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
 Веб-приложение для управления списком задач (To-Do List), реализованное на чистом JavaScript (Vanilla JS) без использования сторонних фреймворков. Проект построен на архитектуре, вдохновлённой языком Elm (паттерн Model-Update-View).
 
 ## Возможности
@@ -54,6 +56,10 @@ git clone https://github.com/sorbondev/todo-list.git
 - **View** — функция, отрисовывающая интерфейс на основе текущего состояния
 
 Такой подход обеспечивает предсказуемость поведения и упрощает тестирование.
+
+## Качество кода
+
+Код проверен через сервис Codacy (статический анализ): отсутствие открытых проблем (issues), нулевое дублирование кода. Бейдж с оценкой качества отображается в верхней части документа.
 
 ## Автор
 
